@@ -1,0 +1,13 @@
+D:\java\Solution\Winotate\bin\Debug\Winotate.exe.config
+D:\java\Solution\Winotate\bin\Debug\Winotate.exe
+D:\java\Solution\Winotate\bin\Debug\Winotate.pdb
+D:\java\Solution\Winotate\obj\Debug\WinRotate.csprojAssemblyReference.cache
+D:\java\Solution\Winotate\obj\Debug\Winotate.Form1.resources
+D:\java\Solution\Winotate\obj\Debug\Winotate.Properties.Resources.resources
+D:\java\Solution\Winotate\obj\Debug\WinRotate.csproj.GenerateResource.cache
+D:\java\Solution\Winotate\obj\Debug\WinRotate.csproj.CoreCompileInputs.cache
+D:\java\Solution\Winotate\obj\Debug\Winotate.exe
+D:\java\Solution\Winotate\obj\Debug\Winotate.pdb
+D:\java\Solution\Winotate\bin\Debug\MultiMonitorHelper.dll
+D:\java\Solution\Winotate\bin\Debug\MultiMonitorHelper.pdb
+D:\java\Solution\Winotate\obj\Debug\WinRotate.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\java\Solution\MultiMonitorHelper\bin\Release\MultiMonitorHelper.dll
+D:\java\Solution\MultiMonitorHelper\bin\Release\MultiMonitorHelper.pdb
+D:\java\Solution\MultiMonitorHelper\obj\Release\MultiMonitorHelper.csprojAssemblyReference.cache
+D:\java\Solution\MultiMonitorHelper\obj\Release\MultiMonitorHelper.csproj.CoreCompileInputs.cache
+D:\java\Solution\MultiMonitorHelper\obj\Release\MultiMonitorHelper.dll
+D:\java\Solution\MultiMonitorHelper\obj\Release\MultiMonitorHelper.pdb
